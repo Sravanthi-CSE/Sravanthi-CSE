@@ -12,11 +12,9 @@
 
 ---
 
-<div align="center">
-
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Sravanthi-CSE&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-
-</div>
+</p>
 
 ---
 
@@ -26,30 +24,23 @@
 <tr>
 <td width="60%">
 
-```javascript
-const sravanthi = {
-    education: "BTech CSE",
-
-    currentlyLearning: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Python",
-        "React",
-        "Git & GitHub"
-    ],
-
-    interests: [
-        "Full Stack Web Development",
-        "Open Source",
-        "Artificial Intelligence"
-    ],
-
-    currentlyWorkingOn: "Building Projects",
-
-    goal: "Become a Software Engineer 🚀"
-};
-```
+<ul>
+<li>🎓 BTech CSE Student</li>
+<li>💻 Learning Full Stack Web Development</li>
+<li>🌱 Currently Exploring:
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+        <li>React</li>
+        <li>Git & GitHub</li>
+    </ul>
+</li>
+<li>🚀 Open Source Contributor</li>
+<li>💡 Interested in Artificial Intelligence</li>
+<li>🎯 Goal: Become a Software Engineer</li>
+</ul>
 
 </td>
 
@@ -60,7 +51,6 @@ const sravanthi = {
 </td>
 </tr>
 </table>
-```
 
 ---
 
