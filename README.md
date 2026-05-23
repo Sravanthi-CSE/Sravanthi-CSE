@@ -22,7 +22,9 @@
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<table>
+<tr>
+<td width="60%">
 
 ```javascript
 const sravanthi = {
@@ -33,8 +35,8 @@ const sravanthi = {
         "CSS",
         "JavaScript",
         "Python",
-        "Git & GitHub",
-        "React"
+        "React",
+        "Git & GitHub"
     ],
 
     interests: [
@@ -43,10 +45,21 @@ const sravanthi = {
         "Artificial Intelligence"
     ],
 
-    currentlyWorkingOn: "Building Projects & Improving Skills",
+    currentlyWorkingOn: "Building Projects",
 
     goal: "Become a Software Engineer 🚀"
 };
+```
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 ```
 
 ---
