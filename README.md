@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,20,24,30&text=Sravanthi%20Sadige&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,20,24,30&text=Sravanthi%20Sadige&fontSize=60&fontColor=fff&animation=twinkling&section=header"/>
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 **🚀 Full Stack Developer | 🐍 Python Enthusiast | 🤖 AI/ML Explorer | 🌱 Open Source Contributor**
 
-[🔗 LinkedIn](https://www.linkedin.com/in/sravanthi-sadige-264253369/) • [📧 Email](mailto:sadigesravanthi9@gmail.com) • [💻 GitHub](https://github.com/Sravanthi-CSE) • [🎯 Portfolio](#)
+[🔗 LinkedIn](https://www.linkedin.com/in/sravanthi-sadige-264253369/) • [📧 Email](mailto:sadigesravanthi9@gmail.com) • [💻 GitHub](https://github.com/Sravanthi-CSE) • [🎯 Portfolio](https://github.com/Sravanthi-CSE)
 
 ---
 
@@ -131,22 +131,138 @@
 
 <div align="center">
 
-### 🌟 Showcase of My Work
+### ✨ Showcase of My Best Work
 
 </div>
 
 <div align="center">
 
-| # | 🌐 Project | 📝 Description | 🔧 Stack |
-|:---:|:---|:---|:---|
-| 1️⃣ | **[SkyCast Weather](https://github.com/Sravanthi-CSE/skycast-weather)** | 🌤️ Modern glassmorphism weather app with real-time data & beautiful UI | React • TypeScript • Tailwind • API |
-| 2️⃣ | **[E-commerce Platform](https://github.com/Sravanthi-CSE/E-commerce)** | 🛍️ Full-featured e-commerce application with cart & checkout | JavaScript • HTML • CSS |
-| 3️⃣ | **[Medical Chatbot](https://github.com/Sravanthi-CSE/medical-chatbot)** | 🏥 AI-powered health assistant chatbot for medical guidance | JavaScript • Python • NLP |
-| 4️⃣ | **[AI Multimodal Banking](https://github.com/Sravanthi-CSE/AI-Multimodal-Banking-System)** | 💰 Advanced banking system with AI capabilities & analytics | Python • ML • Data Science |
-| 5️⃣ | **[Aerial Vehicle Detection](https://github.com/Sravanthi-CSE/-aerial-vehicle-detection-)** | 🚁 Computer vision project for object detection & tracking | Python • OpenCV • TensorFlow |
-| 6️⃣ | **[MediVoice AI](https://github.com/Sravanthi-CSE/-MediVoice-AI)** | 🎤 Voice-based medical assistance using speech recognition | Python • AI • NLP |
+#### 🌟 Project Highlights
 
 </div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🌤️ SkyCast Weather
+
+<a href="https://github.com/Sravanthi-CSE/skycast-weather">
+<img src="https://img.shields.io/badge/View%20Repository-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</a>
+
+**Modern glassmorphism weather app with real-time data & beautiful UI**
+
+🔧 **Stack:** React • TypeScript • Tailwind CSS • Weather API
+
+💡 **Features:**
+- 🎨 Glassmorphism UI design
+- 📍 Real-time weather updates
+- 🌍 Location-based forecasting
+- ⚡ Fast & responsive
+
+</td>
+<td width="50%">
+
+### 💰 AI Multimodal Banking
+
+<a href="https://github.com/Sravanthi-CSE/AI-Multimodal-Banking-System">
+<img src="https://img.shields.io/badge/View%20Repository-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</a>
+
+**Advanced banking system with AI capabilities & analytics**
+
+🔧 **Stack:** Python • Machine Learning • Data Science • Analytics
+
+💡 **Features:**
+- 🤖 AI-powered insights
+- 📊 Advanced analytics
+- 💳 Banking operations
+- 🔐 Secure transactions
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛍️ E-commerce Platform
+
+<a href="https://github.com/Sravanthi-CSE/E-commerce">
+<img src="https://img.shields.io/badge/View%20Repository-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+
+**Full-featured e-commerce application with cart & checkout**
+
+🔧 **Stack:** JavaScript • HTML • CSS • Backend Integration
+
+💡 **Features:**
+- 🛒 Shopping cart
+- 💳 Checkout system
+- 📦 Product management
+- 👥 User authentication
+
+</td>
+<td width="50%">
+
+### 🏥 Medical Chatbot
+
+<a href="https://github.com/Sravanthi-CSE/medical-chatbot">
+<img src="https://img.shields.io/badge/View%20Repository-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+**AI-powered health assistant chatbot for medical guidance**
+
+🔧 **Stack:** JavaScript • Python • NLP • Machine Learning
+
+💡 **Features:**
+- 🤖 Intelligent responses
+- 🏥 Medical knowledge base
+- 💬 Natural conversations
+- 📱 User-friendly interface
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎤 MediVoice AI
+
+<a href="https://github.com/Sravanthi-CSE/-MediVoice-AI">
+<img src="https://img.shields.io/badge/View%20Repository-1f425f?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+**Voice-based medical assistance using speech recognition**
+
+🔧 **Stack:** Python • AI • NLP • Speech Recognition
+
+💡 **Features:**
+- 🎤 Voice input processing
+- 🤖 AI analysis
+- 🏥 Medical insights
+- ⚡ Real-time response
+
+</td>
+<td width="50%">
+
+### 🚁 Aerial Vehicle Detection
+
+<a href="https://github.com/Sravanthi-CSE/-aerial-vehicle-detection-">
+<img src="https://img.shields.io/badge/View%20Repository-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</a>
+
+**Computer vision project for object detection & tracking**
+
+🔧 **Stack:** Python • OpenCV • TensorFlow • Deep Learning
+
+💡 **Features:**
+- 📹 Video processing
+- 🎯 Object detection
+- 📍 Tracking system
+- 🚁 Vehicle classification
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -154,16 +270,95 @@
 
 <div align="center">
 
-| Goal | Status | Details |
-|:---|:---|:---|
-| 🏆 Master MERN Stack | 🔄 In Progress | Building production-ready applications |
-| 💼 Real-World Projects | ✅ Active | Creating impactful solutions |
-| 🌍 Open Source | ✅ Active | Contributing to community projects |
-| 📚 Backend & Databases | 🔄 In Progress | Deepening expertise in system design |
-| 🎓 Internship Ready | ✅ Preparing | Refining skills & portfolio |
-| 🤖 AI/ML Applications | 🔄 Exploring | Building intelligent systems |
+### 🏆 My Journey & Progress
 
 </div>
+
+<table align="center">
+<tr>
+<th>🎖️ Goal</th>
+<th>📊 Status</th>
+<th>📝 Details</th>
+</tr>
+<tr>
+<td><strong>🌐 Master MERN Stack</strong></td>
+<td>
+
+![In Progress](https://img.shields.io/badge/🔄%20In%20Progress-FF9800?style=flat-square)
+
+</td>
+<td>
+
+Building production-ready applications with MongoDB, Express, React & Node.js
+
+</td>
+</tr>
+<tr>
+<td><strong>💼 Real-World Projects</strong></td>
+<td>
+
+![Active](https://img.shields.io/badge/✅%20Active-4CAF50?style=flat-square)
+
+</td>
+<td>
+
+Creating impactful solutions that solve real problems
+
+</td>
+</tr>
+<tr>
+<td><strong>🌍 Open Source Contribution</strong></td>
+<td>
+
+![Active](https://img.shields.io/badge/✅%20Active-4CAF50?style=flat-square)
+
+</td>
+<td>
+
+Contributing to community projects & collaborative development
+
+</td>
+</tr>
+<tr>
+<td><strong>📚 Backend & Databases</strong></td>
+<td>
+
+![In Progress](https://img.shields.io/badge/🔄%20In%20Progress-FF9800?style=flat-square)
+
+</td>
+<td>
+
+Deepening expertise in system design & database optimization
+
+</td>
+</tr>
+<tr>
+<td><strong>🎓 Internship Ready</strong></td>
+<td>
+
+![Preparing](https://img.shields.io/badge/⚙️%20Preparing-2196F3?style=flat-square)
+
+</td>
+<td>
+
+Refining skills & portfolio for industry opportunities
+
+</td>
+</tr>
+<tr>
+<td><strong>🤖 AI/ML Applications</strong></td>
+<td>
+
+![Exploring](https://img.shields.io/badge/🔭%20Exploring-9C27B0?style=flat-square)
+
+</td>
+<td>
+
+Building intelligent systems & exploring cutting-edge technologies
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -181,13 +376,20 @@
 
 <div align="center">
 
-| 🎖️ Badge | Achievement |
-|:---:|:---|
-| 🌟 | Full Stack Developer with 6+ Featured Projects |
-| 💡 | AI/ML Enthusiast with Computer Vision Experience |
-| 🚀 | Open Source Contributor |
-| 🏆 | Passionate Problem Solver |
-| 📱 | Responsive Web Design Expert |
+### ⭐ My Accomplishments
+
+</div>
+
+<div align="center">
+
+| 🎖️ Achievement | 📌 Description | 💪 Impact |
+|:---:|:---|:---|
+| **🌟 Full Stack Developer** | 6+ Featured Projects with diverse tech stack | Building end-to-end applications |
+| **💡 AI/ML Enthusiast** | Computer Vision & NLP expertise | Creating intelligent systems |
+| **🚀 Open Source Contributor** | Active community participation | Collaborating globally |
+| **🏆 Problem Solver** | Creative solutions to complex problems | Delivering value |
+| **📱 UI/UX Expert** | Responsive design & beautiful interfaces | User-focused development |
+| **🔧 DevOps Basics** | Docker & deployment knowledge | Production-ready solutions |
 
 </div>
 
