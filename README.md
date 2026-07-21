@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,20,24,30&text=Sravanthi%20Sadige&fontSize=60&fontColor=fff&animation=twinkling&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,14,20,24,30&text=Sravanthi%20Sadige&fontSize=60&fontColor=fff&animation=twinkle&section=header"/>
 
 <div align="center">
 
@@ -8,9 +8,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/Sravanthi-CSE?label=Followers&style=flat-square&color=ff6b6b)](https://github.com/Sravanthi-CSE)
 [![GitHub User's stars](https://img.shields.io/github/stars/Sravanthi-CSE?label=Total%20Stars&style=flat-square&color=4ecdc4)](https://github.com/Sravanthi-CSE)
 
-**🚀 Full Stack Developer | 🐍 Python Enthusiast | 🤖 AI/ML Explorer | 🌱 Open Source Contributor**
+**🚀 Full Stack Developer | 🐍 Python Enthusiast | 🤖 AI/ML Explorer | 🌱 Open Source Contributor | 💼 Tech Innovator**
 
-[🔗 LinkedIn](https://www.linkedin.com/in/sravanthi-sadige-264253369/) • [📧 Email](mailto:sadigesravanthi9@gmail.com) • [💻 GitHub](https://github.com/Sravanthi-CSE) • [🎯 Portfolio](https://github.com/Sravanthi-CSE)
+[🔗 LinkedIn](https://www.linkedin.com/in/sravanthi-sadige-264253369/) • [📧 Email](mailto:sadigesravanthi9@gmail.com) • [💻 GitHub](https://github.com/Sravanthi-CSE) • [🎯 Portfolio](https://github.com/Sravanthi-CSE?tab=repositories)
 
 ---
 
@@ -24,24 +24,18 @@
 
 ### 👨‍💻 Who I Am
 
-- **🎓** BTech CSE Student with a passion for cutting-edge technology
-- **💻** Full Stack Web Developer crafting responsive & scalable applications
-- **🚀** Active Open Source Contributor & Community Enthusiast
-- **🤖** AI/ML Enthusiast exploring innovative solutions & automation
-- **⚡** Quick learner with a growth mindset
-- **🎯** Mission: Build impactful software that makes a difference
+- **🎓** BTech CSE Student | Passionate about cutting-edge technology
+- **💻** Full Stack Developer | Crafting responsive & scalable applications
+- **🚀** Active Open Source Contributor & Tech Community Enthusiast
+- **🤖** AI/ML Specialist | Building intelligent, automated solutions
+- **⚡** 1000+ GitHub contributions | Continuous learner with growth mindset
+- **🎯** Mission: Transform ideas into impactful software solutions
 
-### 📚 Learning Path
+### 🎯 Key Stats
 
 <div align="center">
 
-```
-🎨 Frontend          🔧 Backend           📦 Tools & Platforms
-├─ HTML5/CSS3        ├─ Python            ├─ Git & GitHub
-├─ JavaScript/TS     ├─ Node.js           ├─ VS Code
-├─ React             ├─ Express.js        ├─ Figma
-└─ Tailwind CSS      └─ REST APIs         └─ Docker
-```
+**6+ Published Projects** | **50+ GitHub Stars** | **Active Contributor** | **Tech Blogger**
 
 </div>
 
@@ -61,39 +55,42 @@
 
 <div align="center">
 
-### 💪 Languages
+### 💪 Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🎨 Frontend Development
+### 🎨 Frontend Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### ⚙️ Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### 🤖 AI/ML & Data
+### 🤖 AI/ML & Data Science
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Machine_Learning-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🔧 Tools & Platforms
+### 🔧 Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
@@ -104,7 +101,7 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sravanthi-CSE&show_icons=true&theme=radical&border_radius=12&hide_border=true&bg_color=0d1117&icon_color=58a6ff"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sravanthi-CSE&show_icons=true&theme=radical&border_radius=12&hide_border=true&bg_color=0d1117&icon_color=58a6ff&include_all_commits=true&count_private=true"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sravanthi-CSE&theme=radical&border_radius=12&hide_border=true&background=0d1117"/>
 
 </div>
@@ -113,7 +110,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sravanthi-CSE&theme=radical&border_radius=12&hide_border=true&bg_color=0d1117"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sravanthi-CSE&theme=radical&border_radius=12&hide_border=true&bg_color=0d1117&area=true"/>
 
 </div>
 
@@ -121,7 +118,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanthi-CSE&theme=radical&layout=compact&border_radius=12&hide_border=true&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanthi-CSE&theme=radical&layout=compact&border_radius=12&hide_border=true&bg_color=0d1117&langs_count=8" width="60%"/>
 
 </div>
 
@@ -132,6 +129,8 @@
 <div align="center">
 
 ### ✨ Showcase of My Best Work
+
+**Building solutions that matter — from AI-powered applications to full-stack web platforms**
 
 </div>
 
@@ -160,6 +159,7 @@
 - 📍 Real-time weather updates
 - 🌍 Location-based forecasting
 - ⚡ Fast & responsive
+- 📱 Mobile optimized
 
 </td>
 <td width="50%">
@@ -172,13 +172,14 @@
 
 **Advanced banking system with AI capabilities & analytics**
 
-🔧 **Stack:** Python • Machine Learning • Data Science • Analytics
+🔧 **Stack:** Python • ML • Data Science • Analytics
 
 💡 **Features:**
 - 🤖 AI-powered insights
 - 📊 Advanced analytics
 - 💳 Banking operations
 - 🔐 Secure transactions
+- 📈 Predictive modeling
 
 </td>
 </tr>
@@ -196,10 +197,11 @@
 🔧 **Stack:** JavaScript • HTML • CSS • Backend Integration
 
 💡 **Features:**
-- 🛒 Shopping cart
-- 💳 Checkout system
+- 🛒 Smart shopping cart
+- 💳 Secure checkout
 - 📦 Product management
 - 👥 User authentication
+- 🎯 Recommendation engine
 
 </td>
 <td width="50%">
@@ -212,13 +214,14 @@
 
 **AI-powered health assistant chatbot for medical guidance**
 
-🔧 **Stack:** JavaScript • Python • NLP • Machine Learning
+🔧 **Stack:** JavaScript • Python • NLP • ML
 
 💡 **Features:**
 - 🤖 Intelligent responses
 - 🏥 Medical knowledge base
 - 💬 Natural conversations
 - 📱 User-friendly interface
+- 🔍 Symptom analyzer
 
 </td>
 </tr>
@@ -240,6 +243,7 @@
 - 🤖 AI analysis
 - 🏥 Medical insights
 - ⚡ Real-time response
+- 🔊 Multi-language support
 
 </td>
 <td width="50%">
@@ -259,6 +263,7 @@
 - 🎯 Object detection
 - 📍 Tracking system
 - 🚁 Vehicle classification
+- 🎬 Real-time processing
 
 </td>
 </tr>
@@ -302,7 +307,7 @@ Building production-ready applications with MongoDB, Express, React & Node.js
 </td>
 <td>
 
-Creating impactful solutions that solve real problems
+6+ Published projects solving real problems with 50+ stars
 
 </td>
 </tr>
@@ -333,28 +338,28 @@ Deepening expertise in system design & database optimization
 </td>
 </tr>
 <tr>
-<td><strong>🎓 Internship Ready</strong></td>
+<td><strong>🤖 AI/ML Excellence</strong></td>
 <td>
 
-![Preparing](https://img.shields.io/badge/⚙️%20Preparing-2196F3?style=flat-square)
+![Advanced](https://img.shields.io/badge/🚀%20Advanced-9C27B0?style=flat-square)
 
 </td>
 <td>
 
-Refining skills & portfolio for industry opportunities
+Building intelligent systems with TensorFlow, OpenCV & NLP
 
 </td>
 </tr>
 <tr>
-<td><strong>🤖 AI/ML Applications</strong></td>
+<td><strong>🎓 Internship Ready</strong></td>
 <td>
 
-![Exploring](https://img.shields.io/badge/🔭%20Exploring-9C27B0?style=flat-square)
+![Prepared](https://img.shields.io/badge/✨%20Prepared-2196F3?style=flat-square)
 
 </td>
 <td>
 
-Building intelligent systems & exploring cutting-edge technologies
+Portfolio ready for industry opportunities & tech roles
 
 </td>
 </tr>
@@ -385,11 +390,28 @@ Building intelligent systems & exploring cutting-edge technologies
 | 🎖️ Achievement | 📌 Description | 💪 Impact |
 |:---:|:---|:---|
 | **🌟 Full Stack Developer** | 6+ Featured Projects with diverse tech stack | Building end-to-end applications |
-| **💡 AI/ML Enthusiast** | Computer Vision & NLP expertise | Creating intelligent systems |
+| **💡 AI/ML Specialist** | Computer Vision & NLP expertise | Creating intelligent systems |
 | **🚀 Open Source Contributor** | Active community participation | Collaborating globally |
-| **🏆 Problem Solver** | Creative solutions to complex problems | Delivering value |
+| **🏆 Problem Solver** | Creative solutions to complex problems | Delivering real value |
 | **📱 UI/UX Expert** | Responsive design & beautiful interfaces | User-focused development |
-| **🔧 DevOps Basics** | Docker & deployment knowledge | Production-ready solutions |
+| **🔧 DevOps Knowledge** | Docker & deployment expertise | Production-ready solutions |
+
+</div>
+
+---
+
+## 🌟 What Sets Me Apart
+
+<div align="center">
+
+**✨ Not just a coder — a solution architect who bridges AI, full-stack development, and user experience**
+
+- 🎯 **Problem-First Approach** - Understand requirements deeply before coding
+- 🚀 **Full-Stack Expertise** - From UI/UX to backend & AI integration
+- 📊 **Data-Driven** - Use metrics to guide decisions
+- 🤝 **Collaborative** - Active open source contributor
+- 🧠 **AI-Savvy** - Integrate intelligent features into products
+- 💡 **Innovative** - Always exploring cutting-edge technologies
 
 </div>
 
@@ -399,12 +421,14 @@ Building intelligent systems & exploring cutting-edge technologies
 
 <div align="center">
 
-**I'm always interested in collaborating on exciting projects!**
+**I'm always interested in collaborating on exciting projects, sharing knowledge, and growing together!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sravanthi-sadige-264253369/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadigesravanthi9@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sravanthi-CSE)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+
+**📧 Open to:** Freelance Projects • Collaborations • Open Source • Tech Discussions
 
 </div>
 
@@ -420,6 +444,21 @@ Building intelligent systems & exploring cutting-edge technologies
 
 ---
 
+## 🎓 Learning & Development
+
+<div align="center">
+
+**Currently Exploring:**
+- 🔗 Web3 & Blockchain Technologies
+- 🎮 Game Development with WebGL
+- 📊 Advanced ML & Deep Learning
+- ☁️ Cloud Architecture & DevOps
+- 🚀 Performance Optimization
+
+</div>
+
+---
+
 <div align="center">
 
 ### 💜 Thank You for Visiting!
@@ -430,7 +469,7 @@ Building intelligent systems & exploring cutting-edge technologies
 
 <img src="https://komarev.com/ghpvc/?username=Sravanthi-CSE&style=flat-square&color=blueviolet" alt=""/>
 
-*Last Updated: June 2026* 📅
+*Last Updated: July 2026* 📅
 
 </div>
 
